@@ -56,6 +56,15 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 ```
+#.env 
+
+```
+DB_USER=car-doctor
+DB_PASS=KYEFUAhsiYCBeefV
+ACCESS_TOKEN_SECRET=
+```
+
+
 
 # Vercel Methods
 
