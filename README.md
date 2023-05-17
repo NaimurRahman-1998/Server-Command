@@ -4,8 +4,10 @@ Npm command and Codes for backend
 # NPM INSTALS
 1. $ mkdir App name
 2. cd app
-3. $ npm init
+3. $ npm init -y
 4. npm i express cors mongodb dotenv jsonwebtoken
+
+package.json => "start" : "node index.js"
 
 # INDEX.js
 ```
